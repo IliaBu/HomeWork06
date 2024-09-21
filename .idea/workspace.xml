@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54e5ba22-f316-4da5-bab0-61a34af930f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/ConcreteNoteEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/interfaces/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/interfaces/NoteEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/interfaces/NotesDatabaseContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/interfaces/NotesPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/NotesDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/NotesRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/NotesTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistance/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistance/DatabaseContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistance/DbContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistance/ModelBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistance/ModelConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistance/NotesDbContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistance/entityconfiguration/NoteConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/queries/controllers/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/queries/controllers/NotesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/queries/views/NotesConsolePresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/queries/views/Presenter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2mNy0yx27riWtDREQKoG2pQlusy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Java/Architecture/HomeWork06/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\Architecture\HomeWork06\src\main\java" />
+      <recent name="E:\Java\Architecture\HomeWork06" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="HomeWork06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54e5ba22-f316-4da5-bab0-61a34af930f3" name="Changes" comment="" />
+      <created>1726931110869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726931110869</updated>
+      <workItem from="1726931112190" duration="2861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
